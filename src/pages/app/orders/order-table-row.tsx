@@ -13,7 +13,6 @@ import { OrderStatus } from '@/components/order-status'
 import { Button } from '@/components/ui/button'
 import { Dialog, DialogTrigger } from '@/components/ui/dialog'
 import { TableCell, TableRow } from '@/components/ui/table'
-import { queryClient } from '@/lib/react-query'
 
 import { OrderDetails } from './order-details'
 
